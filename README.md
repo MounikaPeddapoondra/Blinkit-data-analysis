@@ -1,5 +1,3 @@
-# Blinkit-data-analysis
-Blinkit sales data analysis using Python
 
 # Blinkit Data Analysis Project
 
