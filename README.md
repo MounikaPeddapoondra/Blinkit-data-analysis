@@ -116,8 +116,3 @@ Mounika peddapoondra
 Aspiring Data Analyst with experience in Python, SQL, and Power BI.
 
 ---
-
-## ⭐ Future Improvements
-- Build an interactive dashboard in Power BI
-- Add predictive analysis (sales forecasting)
-- Deploy project using Streamlit
